@@ -1,3 +1,3 @@
 # Hello-World
-Just an Sample
+Just an Sample in Python
 print('Hello World')
